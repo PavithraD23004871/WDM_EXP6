@@ -99,6 +99,5 @@ print("The highest rank cosine score is:", round(highest_rank_score, 4))
 
 
 ### Result:
-Thus, to implement Information Retrieval Using Vector Space Model in Python was executed successfully.
 
 Thus, to implement Information Retrieval Using Vector Space Model in Python was executed successfully.
